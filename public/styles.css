@@ -1,0 +1,21 @@
+.heading{
+    color:rgb(255, 174, 0);
+    margin-top: 0;
+}
+body{
+    color: rgb(114, 221, 176);
+}
+.send{
+    padding: 1.5rem;
+    margin-top: 1.5rem;;
+}
+.textbox{
+    padding: 0.5rem;
+}
+.chat{
+    background-color: rgb(124, 214, 161);
+    padding: 2rem;
+}
+.location{
+    margin-top: 0.5rem;
+}
